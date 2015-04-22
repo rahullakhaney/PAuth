@@ -21,6 +21,8 @@ gem 'coffee-rails', '~> 4.0.1'
 
 # Add two factor authentication gem
 gem 'two_factor_authentication'
+# Add Sinch Gem
+gem 'sinch_sms'
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
