@@ -34,6 +34,9 @@ gem 'spring',        group: :development
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
+# Adding Devise gem for user authentication
+gem 'devise', '3.4.1'
+
 # Use unicorn as the app server
 # gem 'unicorn'
 
